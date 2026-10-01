@@ -21,6 +21,7 @@ HOW TO INSTALL/SETUP:
     - Download the "iPhone Mirroring (Device Hub)" app from the latest release
     - Copy it into the Applications folder
     - Open a terminal and run "xatter -cr '/Applications/iPhone Mirroring (Device Hub)'"
+    - Open Settings, go to Privacy & Security, go to Accessibility, press the + icon, add the app you installed earlier, enable it.
   - Setup:
     - Open Xcode, go to Xcode(in menu bar) -> Open Developer Tool -> Device Hub
     - In Device Hub, go to File(in menu bar) -> Pair Nearby Device
