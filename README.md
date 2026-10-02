@@ -1,5 +1,7 @@
 # iPhone-Mirroring-Device-Hub
-iPhone Mirroring Clone Using Xcode Device Hub. 
+iPhone Mirroring Clone Using Xcode Device Hub. This is very useful for people who want to use iPhone Mirroring but don’t have access to it because of region restrictions.
+
+It works almost the same as real iPhone Mirroring. You can connect while locked, unlock it via passcode through mirroring and use your phone to quickly check messages or notifications.
 
 HOW TO USE:
   - Open "iPhone Mirroring (Device Hub)"
